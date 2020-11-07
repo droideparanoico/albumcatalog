@@ -1,0 +1,55 @@
+.centered {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.fa-3x {
+	vertical-align: middle;
+}
+
+.row {
+	margin: 2em
+}
+
+thead {
+	font-weight: bolder;
+	text-align: center
+}
+
+.table>tbody>tr>td {
+	vertical-align: middle;
+}
+
+.royal_blue {
+	background-color: #0074B7;
+	color: white;
+	font-weight: bolder;
+}
+
+.table {
+    margin-bottom: 0px;
+}
+
+.fa {
+	cursor: pointer;
+}
+
+span.fa-trash:hover {
+	color: red;
+}
+
+span.fa-plus:hover {
+	color: green;
+}
+
+.cover-url {
+	max-width: 200px;
+	max-height: 120px;
+	box-shadow: 2px 2px 1px rgba(50, 50, 50, 0.75);
+	border: 1px solid grey;
+	border-radius: 5px 5px 5px 5px;
+}
